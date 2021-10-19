@@ -23,7 +23,7 @@ quetion based on Technical, Resume Based, Situation-Based Behavioural questions,
 <h2>In this particular round the candidates have to slove 3-4 que based on Data Structures and Algorithms.Quetions level depends on company to company.</h2>
 
 **<h3>viedo Resources [available on you tube]</h3>**
-* codewithhaary 
+* codewitharry 
 * Anuj bhaiya 
 * striver [take u forward]
 * Abdul bari sir

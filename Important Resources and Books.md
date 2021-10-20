@@ -110,7 +110,7 @@ STEP 4: participating on hackathon and open source projects-
  
 * Gsoc
 * MLH fellowship
-* LFX etc.
+* LFX etc
 
 # Round 3: HR round or Final round
  

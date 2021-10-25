@@ -22,7 +22,7 @@ quetion based on Technical, Resume Based, Situation-Based Behavioural questions,
 
 In this particular round the candidates have to slove 3-4 que based on Data Structures and Algorithms.Quetions level depends on company to company.
 
-### Video Resource [available on you tube]
+### Video Resource [available on youtube]
 * CodeWithHarry
 * Anuj bhaiya
 * striver[take u forward]
@@ -49,7 +49,7 @@ In this particular round the candidates have to slove 3-4 que based on Data Stru
 
 STEP 1:Learn development from here-
 
-### Video resource [available on you tube]
+### Video resource [available on youtube]
 
 * udemy courses
 * coursera courses
@@ -68,7 +68,7 @@ STEP 1:Learn development from here-
 * freecodecamp
 * pyhtoncoder 2.0
 
-STEP 2:Make projects-
+STEP 2: Make projects-
  
 ### Take project ideas from here:
  
@@ -76,7 +76,7 @@ STEP 2:Make projects-
 * crio.do
 * freecodecamp
 
-STEP 3:projets you can host here-
+STEP 3: projets you can host here-
  
 ### For fronted:
  
